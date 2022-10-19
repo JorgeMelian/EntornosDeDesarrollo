@@ -1,3 +1,3 @@
 # Tarea 2: Manipulación de repositorios en Git
 
-___
+<img src="img/1.png">
