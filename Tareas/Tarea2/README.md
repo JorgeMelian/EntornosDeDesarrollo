@@ -1,6 +1,6 @@
 ## Ejercicio 1
 
-- ** Mostrar el historial de cambios del repositorio. **
+- **Mostrar el historial de cambios del repositorio.**
 
 ## Ejercicio 2
 
