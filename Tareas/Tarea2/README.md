@@ -2,9 +2,9 @@
 
 - **Mostrar el historial de cambios del repositorio.**
 
-<img src="img/1.png">
+<img src="img/1-1.png">
 
-Utilizando "git log" vemos el historial de cambios del repositorio.
+
 
 ## Ejercicio 2
 
